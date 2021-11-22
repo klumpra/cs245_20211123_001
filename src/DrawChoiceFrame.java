@@ -6,7 +6,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 public class DrawChoiceFrame extends JFrame {
 	public void setupGUI() {
-		setTitle("Draw Choice Frame");
+		setTitle("Draw Choice Frame V1.0");
 		setBounds(100,100,300,300);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		Container c = getContentPane();
